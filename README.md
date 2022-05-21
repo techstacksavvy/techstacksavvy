@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sasheeny !
 - 👀 I’m interested in learning new languages (human and programming), creative endevours, traveling, personal and professional growth.
-- 🌱 I’m currently learning Linux OS, Python, DevOps framework, Cloud Technologies, Networking and Security.
+- 🌱 I’m currently learning Ansible, Cloud Native Architecture, Python, and Cloud Technologies.
 - 💞️ I’m looking to collaborate on meaningful projects, contributing to open source projects, with new and interesting folks who can teach me a thing or two.
 - 📫 You can reach me via email at saheeny@yahoo.com or via Linkedin here,https://www.linkedin.com/in/sasheenyhubbard
 
